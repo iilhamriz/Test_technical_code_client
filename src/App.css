@@ -36,3 +36,17 @@
     transform: rotate(360deg);
   }
 }
+
+/* FORM */
+.form {
+  display: flex;
+  flex-direction: column;
+  max-width: 50%;
+  padding-top: 20px;
+}
+
+.list-button {
+  display: flex;
+  gap: 20px;
+  padding-top: 20px;
+}
